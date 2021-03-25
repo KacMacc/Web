@@ -1,0 +1,175 @@
+body
+{
+    background-color:#bfbfbf;
+    color: white;
+}
+#container
+{
+width:1250px; 
+margin-left:auto;
+margin-right:auto;
+}
+.rectangle
+{
+    width: 1210px;
+    margin: 20px;
+}
+#topbarL
+{ 
+    float:left;
+    padding: 20px;
+ width: 605px;
+     text-align:left;
+    height: 79px;
+}
+#topbarR
+{
+    color:#ff8000;
+    text-align:right;
+    float:left;
+    width: 525px;
+    padding: 20px;
+    font-family: 'Merienda', cursive;
+font-size:29px;
+    height: 79px;
+}
+#powitanie
+{
+    margin-top: 15px;
+    width:1210px;
+    height: 235px;
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    font-size: 75px;
+    text-align: center;
+}
+#kategorie
+{
+    margin-top: 15px;
+    font-family: 'Merienda', cursive;
+    background-color: black;
+    color:white;
+    padding:10px;
+    width:1190px;
+    height: 200px;
+}
+#naglowek
+{
+     margin-top: 15px;
+    font-family: 'Merienda', cursive;
+        color: white;
+    text-align: center;
+     padding:5px;
+    font-size: 45px; 
+}
+.test
+{
+     padding:10px;
+   float:left;
+   width:374px;
+    text-align: center;
+    font-size: 60px;
+    border-right: 2px solid white;
+    
+}
+.test00
+{
+     padding:10px;
+   float:left;
+   width:374px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.test:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test00:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test1
+{
+    border-right: 2px solid white;
+   float:left;
+   width:600px;
+    text-align: center;
+    font-size: 60px;
+}
+.test1:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test2
+{
+   float:left;
+   width:580px;
+    text-align: center;
+    font-size: 60px;
+}
+.test2:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+input[type=submit]
+{
+    font-family: 'Merienda', cursive;
+	width: 250px;
+	background-color: #ff8000;
+	font-size:21px;
+	color: white;
+	padding: 12px 9px;
+	margin-top: 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none; 
+}
+input[type=submit]:hover
+{
+	background-color: #ff9933;
+}
+#stopa1
+{
+    float:left;
+    margin-top: 80px;
+    padding:25px;
+    background-color: black;
+    color: white;
+    font-size:25px;
+    width:555px;
+     text-align: center;
+}
+#stopa2
+{
+    float:left;
+    margin-top: 80px;
+    padding:25px;
+  background-color: black;
+    color: white;
+    font-size:25px;
+    width:555px;
+    text-align: center;
+}
+a:link
+{
+  color:white;  
+text-decoration: none;
+}
+a:visited
+{
+   color:white;  
+    text-decoration: none;
+}
+a:hover
+{
+    color:black;
+    text-decoration: none;
+}

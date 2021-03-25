@@ -1,0 +1,370 @@
+body
+{
+    background-color:#bfbfbf;
+    color: white;
+}
+#container
+{
+width:1250px; 
+margin-left:auto;
+margin-right:auto;
+}
+.rectangle
+{
+    width: 1210px;
+    margin: 20px;
+}
+#topbarL
+{ 
+    float:left;
+ width: 605px;
+    height: 99px;
+    background-color: #bfbfbf;
+    text-align:left;
+    font-size: 29px;
+    font-family: 'Merienda', cursive;
+    margin-top: 20px;
+
+}
+#topbarR
+{
+    color:#ff8000;
+    text-align:right;
+    float:left;
+    width: 605px;
+    margin-top: 16px;
+    font-family: 'Merienda', cursive;
+font-size:29px;
+    height: 79px;
+    background-color: #bfbfbf;
+}
+#powitanie
+{
+    margin-top: 15px;
+    width:1210px;
+    height: 235px;
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    font-size: 75px;
+    text-align: center;
+}
+#kategorie
+{
+    margin-top: 15px;
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    padding:10px;
+    width:1190px;
+    height: 200px;
+}
+
+
+#file_input{ 
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 0 auto;
+                background-color: white; 
+                color: black; 
+                border: 2px solid #303030;
+              width: 600px;
+              height: 100px;
+              text-align: center;
+          }
+          #file_input:hover{
+               background-color: #ff8000;
+                color: white;
+          }
+#file_input:default{
+               background-color: #ff8000;
+                color: white;
+          }
+
+input[type="file"]::-webkit-file-upload-button{
+   float:center;
+   margin-top: 40px;
+    margin-left: 250px;
+    margin-right: 50px;
+   border: 1px solid white;
+   border-radius: 4px;
+}
+
+
+
+
+#kategorie1
+{
+    margin-top: 10px;
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    width:1210px;
+    height: 1130px;  
+    text-align: center;
+    font-size: 50px;
+}
+
+#naglowek
+{
+     margin-top: 15px;
+    font-family: 'Merienda', cursive;
+        color: white;
+    text-align: center;
+     padding:5px;
+    font-size: 45px; 
+}
+.test
+{
+     padding:10px;
+   float:left;
+   width:374px;
+    text-align: center;
+    font-size: 60px;
+    border-right: 2px solid white;
+    
+}
+input[type=text],
+input[type=password]
+{
+    font-family: 'Merienda', cursive;
+	width: 600px;
+	background-color: #efefef;
+	color: black;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+    text-align: center;
+}
+textarea
+{
+    height: 350px;
+    font-family: 'Merienda', cursive;
+	width: 600px;
+	background-color: #efefef;
+	color: black;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 5px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+    resize: none;
+
+}
+textarea::-webkit-input-placeholder
+{
+    color: black;
+}
+.test:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test00
+{
+     padding:10px;
+   float:center;
+   width:1210px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.test001
+{
+     padding:10px;
+   float:left;
+   width:573px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.test001:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test22
+{
+     padding:10px;
+   float:left;
+   width:374px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.test22:hover
+{
+background-color: #ff8000;
+cursor: pointer;  
+}
+.test1
+{
+    
+   float:left;
+   width:1190px;
+    text-align: center;
+    font-size: 60px;
+}
+.test1:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test2
+{
+   float:left;
+   width:580px;
+    text-align: center;
+    font-size: 60px;
+}
+.test2:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+input[type=submit]
+{
+    font-family: 'Merienda', cursive;
+	width: 250px;
+	background-color: #ff8000;
+	font-size:29px;
+	color: white;
+	margin-top: 30px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none; 
+    height: 45px;
+}
+button[type=summit]
+{
+    font-family: 'Merienda', cursive;
+	width: 400px;
+	background-color: #ff8000;
+	font-size:29px;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none; 
+    height: 60px;
+    text-align: center;
+    margin-top: 55px;
+}
+input[type=value]
+{
+    font-family: 'Merienda', cursive;
+	width: 250px;
+	background-color: #ff8000;
+	font-size:29px;
+	color: white;
+	margin-top: 30px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none; 
+    height: 45px;
+}
+input[type=submit]:hover
+{
+	background-color: #ff9933;
+}
+#stopa1
+{
+    float:left;
+    margin-top: 40px;
+    padding:25px;
+    background-color: black;
+    color: white;
+    font-size:25px;
+    width:555px;
+     text-align: center;
+}
+#stopa2
+{
+    float:left;
+    margin-top: 40px;
+    padding:25px;
+  background-color: black;
+    color: white;
+    font-size:25px;
+    width:555px;
+    text-align: center;
+}
+
+
+.select {
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 50%;
+}    .select select {
+        font-family: 'Merienda', cursive;
+    text-align: center;
+        display: inline-block;
+        width: 50%;
+        cursor: pointer;
+        padding: 14px 0px;
+        outline: 0;
+    font-size: 20px;
+        border: 0px inset #000000;
+        border-radius: 5px;
+        background-color: white;
+        color: black;
+        appearance: #ff8000;
+        -webkit-appearance: #ff8000;
+        -moz-appearance: #ff8000;
+    }
+        .select select::-ms-expand {
+            display: none;
+            background: #ff8000;
+            text-align: center;
+        }
+        .select select:hover,
+        .select select:focus {
+            color: Black;
+            text-align: center;
+            background: #ff8000;
+        }
+
+.select select:hover ~ .select_arrow,
+.select select:focus ~ .select_arrow {
+    border-color: #000000;
+    background: #ff8000;
+}
+.select select:disabled ~ .select_arrow {
+    border-top-color: #ff8000;
+    background: #ff8000;
+}
+
+a:link
+{
+  color:white;  
+text-decoration: none;
+}
+a:visited
+{
+   color:white;  
+    text-decoration: none;
+}
+a:hover
+{
+    color:white;
+    text-decoration: none;
+}
+
+input::-webkit-input-placeholder
+{
+    color: black;
+}

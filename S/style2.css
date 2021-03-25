@@ -1,0 +1,220 @@
+body
+{
+    background-color:#bfbfbf;
+    color: white;
+}
+#container
+{
+width:1250px; 
+margin-left:auto;
+margin-right:auto;
+}
+.rectangle
+{
+    width: 1210px;
+    margin: 20px;
+}
+#topbarL
+{ 
+    float:left;
+ width: 605px;
+    height: 99px;
+    background-color: #bfbfbf;
+    text-align:left;
+    font-size: 29px;
+    font-family: 'Merienda', cursive;
+    margin-top: 20px;
+
+}
+#topbarR
+{
+    color:#ff8000;
+    text-align:right;
+    float:left;
+    width: 605px;
+    margin-top: 16px;
+    font-family: 'Merienda', cursive;
+font-size:29px;
+    height: 79px;
+    background-color: #bfbfbf;
+}
+#powitanie
+{
+    margin-top: 15px;
+    width:1210px;
+    height: 235px;
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    font-size: 75px;
+    text-align: center;
+}
+#kategorie
+{
+   
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    padding:10px;
+    width:1190px;
+    height: 200px;
+    margin-bottom: 0px;
+}
+
+#kategorie1
+{ font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    width:1210px;
+    height: 500px;  
+    text-align: center;
+    font-size: 50px;
+}
+#naglowek
+{
+     margin-top: 15px;
+    font-family: 'Merienda', cursive;
+        color: white;
+    text-align: center;
+     padding:5px;
+    font-size: 45px; 
+}
+.test
+{
+     padding:10px;
+   float:left;
+   width:374px;
+    text-align: center;
+    font-size: 60px;
+    border-right: 2px solid white;
+    
+}
+.test:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test00
+{
+     padding:10px;
+   float:left;
+   width:573px;
+    text-align: center;
+    font-size: 60px;
+    border-right: 2px solid white;
+    
+}
+.test00:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test001
+{
+     padding:10px;
+   float:left;
+   width:573px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.test001:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test22
+{
+     padding:10px;
+   float:left;
+   width:374px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.test22:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test1
+{
+    
+   float:left;
+   width:1210px;
+    text-align: center;
+    font-size: 60px;
+}
+.test1:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test2
+{
+   float:left;
+   width:580px;
+    text-align: center;
+    font-size: 60px;
+}
+.test2:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+input[type=submit]
+{
+    font-family: 'Merienda', cursive;
+	width: 250px;
+	background-color: #ff8000;
+	font-size:29px;
+	color: white;
+	margin-top: 30px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none; 
+    height: 45px;
+}
+input[type=submit]:hover
+{
+	background-color: #ff9933;
+}
+#stopa1
+{
+    float:left;
+    margin-top: 80px;
+    padding:25px;
+    background-color: black;
+    color: white;
+    font-size:25px;
+    width:555px;
+     text-align: center;
+}
+#stopa2
+{
+    float:left;
+    margin-top: 80px;
+    padding:25px;
+  background-color: black;
+    color: white;
+    font-size:25px;
+    width:555px;
+    text-align: center;
+}
+a:link
+{
+  color:white;  
+text-decoration: none;
+}
+a:visited
+{
+   color:white;  
+    text-decoration: none;
+}
+a:hover
+{
+    color:white;
+    text-decoration: none;
+}

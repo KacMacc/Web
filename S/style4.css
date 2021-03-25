@@ -1,0 +1,124 @@
+body
+{
+	/* Background pattern from subtlepatterns.com */
+	background-color: #bfbfbf;
+	font-size: 20px;
+      font-family: 'Merienda', cursive;
+}
+
+#container
+{
+      font-family: 'Merienda', cursive;
+	background-color: white;
+	width: 300px;
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+    font-size: 19px;
+    text-align: center;
+}
+
+#container0
+{
+      font-family: 'Merienda', cursive;
+	background-color: white;
+	width: 300px;
+	padding: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+    font-size: 19px;
+}
+
+h1
+{
+    font-size: 20px;
+    text-align: center;
+}
+input[type=text],
+input[type=password]
+{
+      font-family: 'Merienda', cursive;
+	width: 300px;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+}
+
+input[type=text]:focus,
+input[type=password]:focus
+{
+
+	color: black;
+}
+
+input[type=submit]
+{
+      font-family: 'Merienda', cursive;
+	width: 315px;
+	background-color: #ff8000;
+	font-size:20px;
+	color: white;
+	padding: 15px 10px;
+	margin-top: 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+}
+
+input[type=submit]:focus
+{
+	-webkit-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+}
+
+input[type=submit]:hover
+{
+	background-color: #ff9933;
+}
+
+input::-webkit-input-placeholder
+{
+    color: #999;
+}
+input:focus::-webkit-input-placeholder
+{
+    color: #ff9933;
+}
+/* Firefox < 19 */
+input:-moz-placeholder
+{
+    color: #999;
+}
+input:focus:-moz-placeholder
+{
+    color: #ff9933;
+}
+/* Firefox > 19 */
+input::-moz-placeholder
+{
+    color: #999;
+}
+input:focus::-moz-placeholder
+{
+    color: #ff9933;
+}
+/* Internet Explorer 10 */
+input:-ms-input-placeholder
+{
+    color: #999;
+}
+input:focus:-ms-input-placeholder
+{
+    color: #428C42;
+}

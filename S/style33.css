@@ -1,0 +1,345 @@
+body
+{
+    background-color:#bfbfbf;
+    color: white;
+}
+#container
+{
+width:1250px; 
+margin-left:auto;
+margin-right:auto;
+}
+#container1
+{
+margin-right:auto;
+width:1890px; 
+}
+.rectangle
+{
+    width: 1210px;
+    margin: 20px;
+}
+#topbarL
+{ 
+    float:left;
+ width: 605px;
+    height: 99px;
+    background-color: #bfbfbf;
+    text-align:left;
+    font-size: 29px;
+    font-family: 'Merienda', cursive;
+    margin-top: 20px;
+    color: black;
+
+}
+#topbarR
+{
+    color:#ff8000;
+    text-align:right;
+    float:left;
+    width: 605px;
+    margin-top: 16px;
+    font-family: 'Merienda', cursive;
+font-size:29px;
+    height: 79px;
+    background-color: #bfbfbf;
+}
+#powitanie
+{
+    margin-top: 15px;
+    width:1210px;
+    height: 235px;
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    font-size: 75px;
+    text-align: center;
+}
+#kategorie
+{
+    margin-top: 15px;
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    padding:10px;
+    width:1190px;
+    height: 200px;
+}
+
+#kategorie1
+{
+    margin-top: 10px;
+    font-family: 'Merienda', cursive;
+    background-color: pink;
+    color:white;
+    width:1890px;
+    height: 900px;
+    font-size:20px;
+    
+}
+#kategorie111
+{
+    margin-top: 50px;
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    width:1220px;
+    font-size:25px;
+    text-align: center;
+}
+#kategorie1111
+{
+    font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    width:1237px;
+    height: 700px;
+    font-size:25px;
+    text-align: center;
+    overflow-y:auto;
+}
+
+#nagl
+{  font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    padding:10px;
+    width:1895px
+    height: 100px;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 2px solid white;
+    margin-top: 5px;
+}
+#nagl2
+
+{  font-family: 'Merienda', cursive;
+    background-color: #303030;
+    color:white;
+    width:1895px;
+    height: 800px;
+    font-size: 20px;
+    overflow-y:auto;
+    text-align: center;
+}
+#naglowek
+{
+     margin-top: 15px;
+    font-family: 'Merienda', cursive;
+        color: white;
+    text-align: center;
+     padding:5px;
+    font-size: 45px; 
+}
+.test
+{
+     padding:10px;
+   float:left;
+   width:573px;
+    text-align: center;
+    font-size: 60px;
+    border-right: 2px solid white;
+    
+}
+.test:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+
+.testo
+{
+     padding:10px;
+   float:left;
+   width:573px;
+    text-align: center;
+    font-size: 60px;
+}
+.testo:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test22
+{
+     padding:10px;
+   float:left;
+   width:374px;
+    text-align: center;
+    font-size: 60px;
+    
+}
+.test22:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test1
+{ 
+   float:left;
+   width:1190px;
+    text-align: center;
+    font-size: 60px;
+}
+.test1:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test2
+{
+   float:left;
+   width:580px;
+    text-align: center;
+    font-size: 60px;
+}
+.test2:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+#edit_button {
+    font-family: 'Merienda', cursive;
+	width: 250px;
+	background-color:#ff8000;
+	font-size:20px;
+	color: white;
+	margin-top: 1px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none; 
+    height: 50px; 
+}
+#del_button {
+    font-family: 'Merienda', cursive;
+	width: 250px;
+	background-color: #ff8000;
+	font-size:20px;
+	color: white;
+	margin-top: 14px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none; 
+    height: 50px; 
+}
+#del_button:hover
+{
+	background-color: #ff9933;
+}
+#edit_button:hover
+{
+	background-color: #ff9933;
+}
+input[type=submit]
+{
+    font-family: 'Merienda', cursive;
+	width: 250px;
+	background-color: #ff8000;
+	font-size:29px;
+	color: white;
+	margin-top: 30px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none; 
+    height: 45px;
+}
+input[type=submit]:hover
+{
+	background-color: #ff9933;
+}
+#stopa1
+{
+    float:left;
+    margin-top: 40px;
+    padding:25px;
+    background-color: black;
+    color: white;
+    font-size:25px;
+    width:555px;
+     text-align: center;
+}
+#stopa2
+{
+    float:left;
+    margin-top: 40px;
+    padding:25px;
+  background-color: black;
+    color: white;
+    font-size:25px;
+    width:555px;
+    text-align: center;
+}
+a:link
+{
+  color:white;  
+text-decoration: none;
+}
+a:visited
+{
+   color:white;  
+    text-decoration: none;
+}
+a:hover
+{
+    color:white;
+    text-decoration: none;
+}
+
+.test00
+{
+     padding:10px;
+   float:left;
+   width:573px;
+    text-align: center;
+    font-size: 60px;
+    border-right: 2px solid white;
+    
+}
+.test00:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+.test001
+{
+     padding:10px;
+   float:left;
+   width:573px;
+    text-align: center;
+    font-size: 60px; 
+}
+.test001:hover
+{
+   background-color: #ff8000;
+cursor: pointer;  
+}
+
+TH {   
+    text-align: center;
+    background-color: #ff8000;
+}
+TABLE, TD,{ 
+    border: 1px solid white;
+    border-bottom: 1px solid white;
+}
+
+TABLE {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+TH, TD {
+    text-align: center;
+    padding: 15px;
+    border-bottom: 1px solid white; 
+}
+img {
+ width: 230px;
+}

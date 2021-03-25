@@ -1,0 +1,211 @@
+body
+{
+	/* Background pattern from subtlepatterns.com */
+	background-color: #bfbfbf;
+	font-size: 20px;
+      font-family: 'Merienda', cursive;
+}
+.error
+{
+    color:red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#container
+{
+    font-family: 'Merienda', cursive;
+	background-color: white;
+	width: 340px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+    font-size: 19px;
+    height: 10px; 
+}
+
+#container11
+{float:left;
+    font-family: 'Merienda', cursive;
+	background-color: white;
+	margin-left: auto;
+    padding: 20px;
+	margin-right: auto;
+    width: 300px;
+    font-size: 19px;
+    background-color: white;
+}
+.zakladka
+{ float:left;
+    width: 149px;
+    padding: 10px;
+    background-color: #bfbfbf;
+    text-align: center;
+    height: 27px;
+    border-right: 2px solid black;
+}
+.zakladka1
+{ float:left;
+    width:149px;
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    height: 27px;
+    color:black;
+}
+.zakladka2
+{ float:left;
+    width: 149px;
+    padding: 10px;
+    background-color: red;
+    background-color: #bfbfbf;
+    text-align: center;
+    color:#f2f2f2;
+    height: 27px;
+}
+.zakladka3
+{ float:left;
+    width:149px;
+    padding: 10px;
+    background-color:white ;
+    text-align: center;
+	border-right: 2px solid black;
+    height: 27px;
+}
+h1
+{
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+}
+input[type=text],
+input[type=password]
+{
+      font-family: 'Merienda', cursive;
+	width: 300px;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+	outline: none;
+	margin-top: 10px;
+}
+
+input[type=text]:focus,
+input[type=password]:focus
+{
+	color: black;
+}
+
+input[type=submit]
+{
+      font-family: 'Merienda', cursive;
+	width: 300px;
+	background-color: #ff8000;
+	font-size:20px;
+	color: white;
+	padding: 15px 10px;
+	margin-top: 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+}
+input[type=submit1]
+{
+    font-family: 'Merienda', cursive;
+	width: 158px;
+	background-color: white;
+	color: white;
+	border: none;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+    padding: 10px;
+    height: 25px;
+    color:#ff8000;
+    text-align: center;
+    font-size: 19px;
+    
+}
+input[type=submit2]
+{
+    font-family: 'Merienda', cursive;
+	width: 160px;
+	background-color: white;
+	color: white;
+	border: none;
+	cursor: pointer;
+	letter-spacing: 2px;
+	outline: none;
+    height: 25px;
+    color:#ff8000;
+    text-align: center;
+    font-size: 19px;
+}
+
+input[type=submit]:focus
+{
+	-webkit-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	-moz-box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+	box-shadow: 0px 0px 15px 5px rgba(204,204,204,0.9);
+}
+
+input[type=submit]:hover
+{
+	background-color: #ff9933;
+}
+
+input::-webkit-input-placeholder
+{
+    color: #999;
+}
+input:focus::-webkit-input-placeholder
+{
+    color: #ff9933;
+}
+/* Firefox < 19 */
+input:-moz-placeholder
+{
+    color: #999;
+}
+input:focus:-moz-placeholder
+{
+    color: #ff9933;
+}
+/* Firefox > 19 */
+input::-moz-placeholder
+{
+    color: #999;
+}
+input:focus::-moz-placeholder
+{
+    color: #ff9933;
+}
+/* Internet Explorer 10 */
+input:-ms-input-placeholder
+{
+    color: #999;
+}
+input:focus:-ms-input-placeholder
+{
+    color: #428C42;
+}
+a:link
+{
+  color:black;  
+text-decoration: none;
+}
+a:visited
+{
+   color:black;  
+    text-decoration: none;
+}
+a:hover
+{
+    color:black;
+    text-decoration: none;
+}

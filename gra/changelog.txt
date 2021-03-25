@@ -1,0 +1,55 @@
+﻿//beta_0.0.10.zip
+* pytania się już nie powtarzają
+* dodano dużo pytań
+
+//beta_0.0.9.zip
+* działanie gry, odczyt z bazy,update
+* umieranie
+* umieranie wygląd // Kuba
+* import bazy //  Krzysiek/Kacper 
+
+//beta_0.0.8.zip
+* poprawki w tłumaczeniu
+* poprawki w rejestracji
+* alerty o błędach teraz w ciasteczkach a nie w sesji
+
+//beta_0.0.7.zip
+* Dodanie opcji języka angielskiego na wszystkich stronach na zasadzie linku i tłumaczenia poszczegónych partii tekstu
+
+
+//beta_0.0.6.zip
+* naprawione złe przekierowywanie po logowaniu,rejestracji
+* poprawienie newsów
+
+
+//beta_0.0.5.zip
+* poprawione logowanie, 
+* poprawiona repsonsywność, 
+* nowa strona glowna oraz strona z newsami, 
+* nawigacja i footer na kazdej podstronie, 
+* poprawiony styl aspektow oraz kart, 
+* napisy na kartach z bazy danych.
+
+
+//beta_0.0.4.zip
+* dodane lokalnie font-awesome
+
+
+//beta_0.0.3.zip
+*dodanie wszystkich kółek wykresowych
+*połączenie kółek z bazą
+*troche css
+
+
+//beta_0.0.2.zip
+*supi css w okienku z info o złym haśle
+*fontawesome
+
+
+//beta_0.0.1.zip
+*struktura bazy danych
+*tabela users i aspects
+*logowanie i rejestracja
+*sha1
+*sesja
+*okienko z informacją o złym haśle itd
